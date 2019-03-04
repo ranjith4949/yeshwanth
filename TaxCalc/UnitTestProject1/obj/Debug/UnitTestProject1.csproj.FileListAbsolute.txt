@@ -1,0 +1,17 @@
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\TaxCal.exe
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\TaxCal.pdb
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\TaxCal.exe.config
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Sunil\PRJ\TaxCalc\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,9 @@
+1. Created a console application named as TaxCal,it will show final order price including tax calculations.
+2. Created models for Products, Coupon and Promotion.
+3. Implemented class file , in constructor fill the Taxrate, Products, Coupon and Promotion models information. It has methods related to tax calculations, applying coupons and discounts
+4. Assumed the sample data for all models.
+5. Passing products array and state information as a Input.Returned total order price after applying tax and coupons, promotions if available as output.
+6. The calculations are made based on requirements. It meets the expectations.
+7. Created Unit Test project it has two methods Success/Fail.
+8. Test cases are implemented like as program, just pass the product and state information assumed the expected value and checked with actual value for both test cases.
+  
