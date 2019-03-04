@@ -1,7 +1,0 @@
-D:\Sunil\PRJ\TaxCalc\TaxCal\bin\Debug\TaxCal.exe.config
-D:\Sunil\PRJ\TaxCalc\TaxCal\bin\Debug\TaxCal.exe
-D:\Sunil\PRJ\TaxCalc\TaxCal\bin\Debug\TaxCal.pdb
-D:\Sunil\PRJ\TaxCalc\TaxCal\obj\Debug\TaxCal.csprojAssemblyReference.cache
-D:\Sunil\PRJ\TaxCalc\TaxCal\obj\Debug\TaxCal.csproj.CoreCompileInputs.cache
-D:\Sunil\PRJ\TaxCalc\TaxCal\obj\Debug\TaxCal.exe
-D:\Sunil\PRJ\TaxCalc\TaxCal\obj\Debug\TaxCal.pdb
